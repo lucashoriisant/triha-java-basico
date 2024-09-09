@@ -82,7 +82,7 @@ public class Operadores {
            
         System.out.println(resultado); */
 
-        //OPERADORES RELACIONAIS -> Apoiam na tomada de decisão
+        /*OPERADORES RELACIONAIS -> Apoiam na tomada de decisão
 
         String nomeUm = "LUCAS";
         String nomeDois = "LUCAS";
@@ -106,8 +106,23 @@ public class Operadores {
 
         simNao = numero1 > numero2;
 
-        System.out.println("numeroUm é maior que numeroDois? " + simNao);
+        System.out.println("numeroUm é maior que numeroDois? " + simNao);*/
 
+        //OPERADORES LÓGICOS
+
+        boolean condicao1 = true;
+
+        boolean condicao2 = true;
+
+        if (condicao1 && condicao2){
+            System.out.println("As duas condições são verdadeiras");
+        }
+
+        if (condicao1 || condicao2){
+            System.out.println("Uma das condições é verdadeira");
+
+        }
+
+        System.out.println("Fim");
     }
-
 }
