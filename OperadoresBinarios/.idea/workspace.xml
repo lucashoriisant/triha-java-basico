@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a04fe6be-a3a2-40a5-a86e-a842a79885a5" name="Changes" comment="Update Unversioned Files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lucashoriisant/triha-java-basico.git",
+    "accountId": "dd850ccf-3ffa-4c19-a26f-2dea5b4c39e3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2zla4DJUM9jPTfQ3rIgmMgocrX0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/workspace-estudos/triha-java-basico/OperadoresBinarios/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a04fe6be-a3a2-40a5-a86e-a842a79885a5" name="Changes" comment="" />
+      <created>1752307926391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752307926391</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Criacao da classe Main.java no projeto Operadores Binarios">
+      <option name="closed" value="true" />
+      <created>1752308096196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752308096196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Unversioned Files">
+      <option name="closed" value="true" />
+      <created>1752308134443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752308134443</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Unversioned Files">
+      <option name="closed" value="true" />
+      <created>1752308363864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752308363864</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update Unversioned Files">
+      <option name="closed" value="true" />
+      <created>1752308379576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752308379576</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criacao da classe Main.java no projeto Operadores Binarios" />
+    <MESSAGE value="Update Unversioned Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Unversioned Files" />
+  </component>
+</project>
